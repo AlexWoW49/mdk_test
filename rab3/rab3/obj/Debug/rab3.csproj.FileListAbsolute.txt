@@ -1,0 +1,14 @@
+C:\Users\Александр\Desktop\rab3\rab3\obj\Debug\rab3.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\rab3\rab3\obj\Debug\rab3.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\rab3\rab3\bin\Debug\rab3.exe.config
+C:\Users\Александр\Desktop\rab3\rab3\bin\Debug\rab3.exe
+C:\Users\Александр\Desktop\rab3\rab3\bin\Debug\rab3.pdb
+C:\Users\Александр\Desktop\rab3\rab3\obj\Debug\rab3.exe
+C:\Users\Александр\Desktop\rab3\rab3\obj\Debug\rab3.pdb
+C:\Users\Александр\Desktop\учеба 4 курс\Рязанова\выполнено\rab3\rab3\bin\Debug\rab3.exe.config
+C:\Users\Александр\Desktop\учеба 4 курс\Рязанова\выполнено\rab3\rab3\bin\Debug\rab3.exe
+C:\Users\Александр\Desktop\учеба 4 курс\Рязанова\выполнено\rab3\rab3\bin\Debug\rab3.pdb
+C:\Users\Александр\Desktop\учеба 4 курс\Рязанова\выполнено\rab3\rab3\obj\Debug\rab3.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\учеба 4 курс\Рязанова\выполнено\rab3\rab3\obj\Debug\rab3.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\учеба 4 курс\Рязанова\выполнено\rab3\rab3\obj\Debug\rab3.exe
+C:\Users\Александр\Desktop\учеба 4 курс\Рязанова\выполнено\rab3\rab3\obj\Debug\rab3.pdb
